@@ -1,2 +1,3 @@
 # WeatherApp-API
-Used HTML, CSS, and JavaScript to create a fully functional weather app using an API.
+Created a fully functional weather app which is used to tell weather in any of the searched city with background image of the search city using an API.
+Technology Used: Javascript.
